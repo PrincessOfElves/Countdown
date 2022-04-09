@@ -1,2 +1,2 @@
-# dependencies
-date-fns
+node_modules
+.parcel-cache
